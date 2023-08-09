@@ -1,0 +1,17 @@
+#pasame_por_arriba{
+    background-color: cyan;
+}
+
+#pasame_por_arriba:hover{
+    background-color: red;
+}
+
+
+/* este es el segundo div del html */
+#clickeame:checked{
+    background-color: rgb(98, 255, 0);
+}
+
+#manteneme_clickeado:active{
+    background-color: blue;
+}
